@@ -1,5 +1,3 @@
-# Test file for Lab2
-
 
 # commands.gdb provides the following functions for ease:
 #   test "<message>"
